@@ -56,7 +56,7 @@
 <br>
 <hr>
 
-## 🚀 주요 프로젝트
+## 🚀 주요 프로젝트 🚀
 
 ### HighPass 풀스택 (Spring Boot + React)
 
