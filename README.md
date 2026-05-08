@@ -53,7 +53,8 @@
    <img src="https://img.shields.io/badge/HeidiSQL-22315E?style=for-the-badge&logo=heidisql&logoColor=white">
 </div>
 
-<br><hr><br>
+<br>
+<hr>
 
 ## 🚀 주요 프로젝트
 
@@ -65,7 +66,8 @@
 * **WebSocket:** 끊임없는 실시간 양방향 통신 시스템 구축
 * **Swagger:** API 명세서 자동화 및 테스트 환경 제공
 
-<br><hr><br>
+<br>
+<hr>
 
 <!--stat-->
 <h2 align="left">📊 GitHub Stats</h2>
@@ -77,7 +79,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<br><hr><br>
+<br>
+<hr>
+
 <!--연락방법-->
 <h2 align="left">📫 Contact 📫</h2>
 <div align="center">
