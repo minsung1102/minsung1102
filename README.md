@@ -8,10 +8,6 @@
 # 곽민성 (Kwak Minsung) 👋
 ---
 풀스택 개발자 | Java · Spring Boot · React · MySQL
-<br>
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsung1102&count_bg=%23000000&title_bg=%23555555&title=Hits&edge_flat=false" alt="Hits"/>
-</a>
 </div>
 
 <br>
