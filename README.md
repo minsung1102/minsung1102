@@ -1,3 +1,8 @@
+<!--타이틀 부분-->
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:19dee1,100:bd2828&height=120&text=Welcom%20to%20Minsung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+</div>
+
 <div align="center">   
           
 # 곽민성 (Kwak Minsung) 👋
@@ -6,6 +11,7 @@
 
 <!--내용 부분-->
 <br><hr>
+
 <!--태크 스택-->
 <h2 align="left">✨ Tech Stack ✨</h2>
 <div align="center">
@@ -51,6 +57,7 @@
 <br>
 <hr>
 
+<!--프로젝트-->
 ## 🚀 주요 프로젝트 🚀
 
 ### 📚 HighPass 풀스택 (Spring Boot + React)
