@@ -86,7 +86,7 @@
 
 <br><hr><br>
 <!--연락방법-->
-<h2 align="center">📫 Contact 📫</h2>
+<h2 align="left">📫 Contact 📫</h2>
 <div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
