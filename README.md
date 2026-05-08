@@ -60,6 +60,18 @@
 * **Swagger:** API 명세서 자동화 및 테스트 환경 제공
 
 <br>
+<!--stat-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsung1102&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <!--연락방법-->
 <h3 align="center">📫 Contact 📫</h3>
