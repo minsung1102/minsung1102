@@ -82,7 +82,7 @@
 <br><hr><br>
 <!--연락방법-->
 <h3 align="center">📫 Contact 📫</h3>
-<hr>
+---
 <div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
