@@ -53,7 +53,11 @@
 <img src="https://img.shields.io/badge/HeidiSQL-22315E?style=for-the-badge&logo=heidisql&logoColor=white">
 </div>
 
-<br><hr><br>
+<br>
+
+<hr>
+
+<br>
 
 ## 🚀 주요 프로젝트
 
