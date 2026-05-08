@@ -12,7 +12,7 @@
 <!--내용 부분-->
 <br><hr><br>
 <!--태크 스택-->
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h2 align="left">✨ Tech Stack ✨</h2>
 <div align="center">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -31,7 +31,7 @@
 <br>
 
 <!--공부중-->
-<h2 align="center">📚 Studying 📚</h2>
+<h2 align="left">📚 Studying 📚</h2>
 <div align="center">
    
 </div>
@@ -39,7 +39,7 @@
 <br>
 
 <!--사용 툴-->
-<h2 align="center">🛠 Tools 🛠</h2>
+<h2 align="left">🛠 Tools 🛠</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
