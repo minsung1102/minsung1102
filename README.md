@@ -13,7 +13,7 @@
 <br><hr><br>
 <!--태크 스택-->
 <h2 align="left">✨ Tech Stack ✨</h2>
-<div align="center">
+<div align="left">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -40,24 +40,20 @@
 
 <!--사용 툴-->
 <h2 align="left">🛠 Tools 🛠</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+<div align="left">
+   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/HeidiSQL-22315E?style=for-the-badge&logo=heidisql&logoColor=white">
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+   <img src="https://img.shields.io/badge/HeidiSQL-22315E?style=for-the-badge&logo=heidisql&logoColor=white">
 </div>
 
-<br>
-
-<hr>
-
-<br>
+<br><hr><br>
 
 ## 🚀 주요 프로젝트
 
@@ -68,26 +64,23 @@
 * **MySQL & Spring Data JPA:** 데이터베이스 설계 및 ORM을 통한 객체 지향적 데이터 관리
 * **WebSocket:** 끊임없는 실시간 양방향 통신 시스템 구축
 * **Swagger:** API 명세서 자동화 및 테스트 환경 제공
+
 <br><hr><br>
+
 <!--stat-->
-
 <h2 align="left">📊 GitHub Stats</h2>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
   <br><br>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsung1102&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
   <br><br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br><hr><br>
 <!--연락방법-->
 <h2 align="left">📫 Contact 📫</h2>
-<div align="center">
+<div align="left">
   <a href="mailto:kms38400097@gmail.com">
     <img
       src="https://img.shields.io/badge/kms38400097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
