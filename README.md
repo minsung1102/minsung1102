@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-
+   
 # 곽민성 (Kwak Minsung) 👋
 풀스택 개발자 | Java · Spring Boot · React · MySQL
 </div>
@@ -14,6 +14,7 @@
 <!--태크 스택-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+   ## ✨ Tech Stack ✨
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
