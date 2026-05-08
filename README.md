@@ -4,7 +4,7 @@
 </div>
 
 <!--자기소개-->
-## 👋 곽민성(Kwak Min Sung)
+<h3 align="center">곽민성(Kwak Min Sung)</h3>
    안녕
 
 <br>
