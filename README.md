@@ -60,8 +60,8 @@
 <div align="center">
    
 </div>
----
-# 🚀 주요 프로젝트
+
+## 🚀 주요 프로젝트
 ### HighPass 풀스택 (Spring Boot + React)
 
 * **Spring Boot 4.x & Java 17:** 메인 서버 아키텍처 및 API 개발
