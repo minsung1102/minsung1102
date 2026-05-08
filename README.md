@@ -13,7 +13,7 @@
 <br><hr><br>
 <!--태크 스택-->
 <h2 align="left">✨ Tech Stack ✨</h2>
-<div align="left">
+<div align="center">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -40,7 +40,7 @@
 
 <!--사용 툴-->
 <h2 align="left">🛠 Tools 🛠</h2>
-<div align="left">
+<div align="center">
    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
@@ -69,7 +69,7 @@
 
 <!--stat-->
 <h2 align="left">📊 GitHub Stats</h2>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsung1102&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -80,7 +80,7 @@
 <br><hr><br>
 <!--연락방법-->
 <h2 align="left">📫 Contact 📫</h2>
-<div align="left">
+<div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
       src="https://img.shields.io/badge/kms38400097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
