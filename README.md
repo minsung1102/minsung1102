@@ -25,6 +25,7 @@
 <!--공부중-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+   
 </div>
 
 <br>
@@ -46,6 +47,7 @@
 
 <br>
 <div align="center">
+   
 </div>
 
 <div align="center">
@@ -54,11 +56,11 @@
 ---
 ### HighPass 풀스택 (Spring Boot + React)
 
-* **Spring Boot 4.x & Java 17:** 메인 서버 아키텍처 및 API 개발
-* **Spring Security & JWT:** 인증/인가 및 OAuth2 로그인 구축
-* **MySQL & Spring Data JPA:** 데이터베이스 설계 및 ORM을 통한 객체 지향적 데이터 관리
-* **WebSocket:** 끊임없는 실시간 양방향 통신 시스템 구축
-* **Swagger:** API 명세서 자동화 및 테스트 환경 제공
+ **Spring Boot 4.x & Java 17:** 메인 서버 아키텍처 및 API 개발
+ **Spring Security & JWT:** 인증/인가 및 OAuth2 로그인 구축
+ **MySQL & Spring Data JPA:** 데이터베이스 설계 및 ORM을 통한 객체 지향적 데이터 관리
+ **WebSocket:** 끊임없는 실시간 양방향 통신 시스템 구축
+ **Swagger:** API 명세서 자동화 및 테스트 환경 제공
 </div>
 
 <br>
