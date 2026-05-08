@@ -69,13 +69,7 @@
 * **MySQL & Spring Data JPA:** 데이터베이스 설계 및 ORM을 통한 객체 지향적 데이터 관리
 * **WebSocket:** 끊임없는 실시간 양방향 통신 시스템 구축
 * **Swagger:** API 명세서 자동화 및 테스트 환경 제공
-
-
-<br>
-
-<hr>
-
-<br>
+<br><hr><br>
 <!--stat-->
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
