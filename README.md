@@ -6,6 +6,7 @@
 <div align="center">
 
 ### 곽민성 (Kwak Minsung) 👋
+<br>
 풀스택 개발자 | Java · Spring Boot · React · MySQL
 
 </div>
