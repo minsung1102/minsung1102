@@ -31,7 +31,7 @@
 <br>
 
 <!--공부중-->
-<h3 align="center">📚 Studying 📚</h3>
+<h2 align="center">📚 Studying 📚</h2>
 <div align="center">
    
 </div>
@@ -39,7 +39,7 @@
 <br>
 
 <!--사용 툴-->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -71,10 +71,7 @@
 <br><hr><br>
 <!--stat-->
 
-<h3 align="center">📊 GitHub Stats</h3>
-
----
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
@@ -89,7 +86,7 @@
 
 <br><hr><br>
 <!--연락방법-->
-<h3 align="center">📫 Contact 📫</h3>
+<h2 align="center">📫 Contact 📫</h2>
 <div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
