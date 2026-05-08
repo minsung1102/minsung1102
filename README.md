@@ -89,7 +89,7 @@
 
 <br><hr><br>
 <!--연락방법-->
-##📫 Contact 📫
+<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
