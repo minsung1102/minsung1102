@@ -90,6 +90,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<br><hr><br>
 <!--연락방법-->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
