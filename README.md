@@ -10,7 +10,7 @@
 </div>
 
 <!--내용 부분-->
-<br><hr><br>
+<br><hr>
 <!--태크 스택-->
 <h2 align="left">✨ Tech Stack ✨</h2>
 <div align="center">
