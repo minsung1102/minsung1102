@@ -41,8 +41,8 @@
 <!--사용 툴-->
 <h2 align="left">🛠 Tools 🛠</h2>
 <div align="center">
-   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 <div align="center">
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -83,6 +83,6 @@
 <div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
-      src="https://img.shields.io/badge/kms38400097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/kms38400097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
