@@ -1,9 +1,10 @@
  <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Minsung's GitHub">
-    </div>
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Minsung's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Minsung's GitHub">
+</div>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2></a>
-         <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"> </a>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+</a>
+         <a href=mailto:kms38400097@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kms38400097@gmail.com"> </a>
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
@@ -27,6 +28,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=radical)    
 
 <br>
