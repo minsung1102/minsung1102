@@ -10,9 +10,7 @@
 </div>
 
 <!--내용 부분-->
-<br>
-<hr>
-<br>
+<br><hr><br>
 <!--태크 스택-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -31,6 +29,7 @@
 </div>
 
 <br>
+
 <!--공부중-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -54,11 +53,7 @@
 <img src="https://img.shields.io/badge/HeidiSQL-22315E?style=for-the-badge&logo=heidisql&logoColor=white">
 </div>
 
-<br>
-
-<hr>
-
-<br>
+<br><hr><br>
 
 ## 🚀 주요 프로젝트
 
