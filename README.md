@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:19dee1,100:bd2828&height=120&text=Wellcom%20to%20Minsung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:19dee1,100:bd2828&height=120&text=Welcom%20to%20Minsung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@
 <br><hr><br>
 <!--연락방법-->
 <h3 align="center">📫 Contact 📫</h3>
----
+<hr>
 <div align="center">
   <a href="mailto:kms38400097@gmail.com">
     <img
