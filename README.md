@@ -60,7 +60,7 @@
 <!--프로젝트-->
 ## 🚀 주요 프로젝트 🚀
 
-### 📚 HighPass 풀스택 (Spring Boot + React)
+###  HighPass(취준생을 위한 종합 플랫폼) 풀스택 (Spring Boot + React)
 
 * **Spring Boot 4.x & Java 17:** 메인 서버 아키텍처 및 API 개발
 * **Spring Security & JWT:** 인증/인가 및 OAuth2 로그인 구축
