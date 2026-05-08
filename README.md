@@ -7,7 +7,7 @@
 <div align="center">
 ## 👋 곽민성(Kwak Minsung)
    안녕
-<?div>
+</div>
 
 <br>
 
