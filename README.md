@@ -7,15 +7,13 @@
 
 # 곽민성 (Kwak Minsung) 👋
 풀스택 개발자 | Java · Spring Boot · React · MySQL
-
 </div>
 
-<br>
-
 <!--내용 부분-->
-
+<br>
+<hr>
+<br>
 <!--태크 스택-->
----
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
