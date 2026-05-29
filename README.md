@@ -60,13 +60,35 @@
 <!--프로젝트-->
 ## 🚀 주요 프로젝트 🚀
 
-###  HighPass 풀스택 (Spring Boot + React)
+###  HighPass — 풀스택 취업준비생 커뮤니티 플랫폼 (Spring Boot + React)
 
-* **Spring Boot 4.x & Java 17:** 메인 서버 아키텍처 및 API 개발
-* **Spring Security & JWT:** 인증/인가 및 OAuth2 로그인 구축
-* **MySQL & Spring Data JPA:** 데이터베이스 설계 및 ORM을 통한 객체 지향적 데이터 관리
-* **WebSocket:** 실시간 양방향 통신 시스템 구축
-* **Swagger:** API 명세서 자동화 및 테스트 환경 제공
+> 🎓 Spring Boot + React 풀스택 개인 프로젝트 · 진행중
+
+`Spring Boot` `React` `JWT` `OAuth2` `TailwindCSS` `MySQL`
+
+| 기능 | 설명 |
+|------|------|
+| 🔐 인증 | Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신 |
+| 👥 커뮤니티 | 취업준비생 대상 게시판 · 스터디 모집 · 자료 공유 |
+| 💬 실시간 채팅 | WebSocket 기반 실시간 양방향 채팅 시스템 |
+| 📝 API 문서 | Swagger 자동화 API 명세서 및 테스트 환경 |
+| 🗄 데이터 관리 | MySQL + Spring Data JPA 기반 ORM 설계 |
+
+<br>
+
+###  Quizly — 실시간 협업 플래시카드 학습 플랫폼 (React + Node.js)
+
+> ⚡ React + Node.js 풀스택 개인 프로젝트 · 진행중
+
+`React` `Node.js` `Socket.io` `Prisma` `MariaDB` `JWT`
+
+| 기능 | 설명 |
+|------|------|
+| 📚 플래시카드 | 덱 · 카드 생성 및 관리, 공개/비공개 설정 |
+| 🎯 학습 모드 | 카드 플립 애니메이션 · 정답/오답 체크 · 복습 알고리즘 |
+| ⚡ 실시간 퀴즈 | Socket.io 기반 멀티플레이어 퀴즈 · 15초 타이머 · 실시간 점수판 |
+| 📊 학습 통계 | 카드별 정답률 · 복습 대상 카드 자동 추출 |
+| 🌐 덱 탐색 | 공개 덱 검색 · 복사 · 좋아요 · 무한 스크롤 |
 
 <br>
 <hr>
