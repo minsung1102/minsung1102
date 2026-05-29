@@ -96,9 +96,9 @@
 <!--stat-->
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+   <img src="https://readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
    <br><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minsung1102&layout=compact&theme=tokyonight" alt="Top Languages" />
+   <img src="https://readme-stats.vercel.app/api/top-langs/?username=minsung1102&layout=compact&theme=tokyonight" alt="Top Languages" />
    <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=tokyonight" alt="GitHub Streak" />
 </div>
