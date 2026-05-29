@@ -61,18 +61,18 @@
 ## 🚀 주요 프로젝트 🚀
 
 ###  HighPass — 풀스택 취업준비생 커뮤니티 플랫폼 (Spring Boot + React)
-
-> 🎓 Spring Boot + React 풀스택 개인 프로젝트 · [완료](https://highpassfrontend.vercel.app/login/)
-
-`Spring Boot` `React` `JWT` `OAuth2` `TailwindCSS` `WebSocket` `GCP`
-
+ 
+> 🎓 Spring Boot + React 풀스택 팀 프로젝트 4인 · 완료
+ 
+> 💼 담당: 캘린더, 자유계시판, 알림, 반응형 디자인
+ 
 | 기능 | 설명 |
 |------|------|
-| 🔐 인증 | Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신 |
+| 🔐 인증 | Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신 · 카카오톡 캘린더 일정 연동 |
+| 💬 채팅 | WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 → 채팅방 자동 개설 |
+| 📅 캘린더 | 공공데이터포털 API — 자격증 시험 일정 자동 동기화, Kakao Map API 스터디 장소 표시 |
 | 👥 커뮤니티 | 취업준비생 대상 게시판 · 스터디 모집 · 자료 공유 |
-| 💬 실시간 채팅 | WebSocket 기반 실시간 양방향 채팅 시스템 |
-| 📝 API 문서 | Swagger 자동화 API 명세서 및 테스트 환경 |
-| 🗄 데이터 관리 | MySQL + Spring Data JPA 기반 ORM 설계 |
+| 🚀 배포 | GCP Cloud Run + Cloud Build CI/CD · Vercel 배포 |
 
 <br>
 
