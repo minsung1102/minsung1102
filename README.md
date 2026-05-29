@@ -83,6 +83,24 @@
 
 <br>
 
+### ⚡ Quizly — 실시간 협업 플래시카드 학습 플랫폼
+
+> Spring Boot + React 풀스택 개인 프로젝트 · 진행중
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+| 기능 | 설명 |
+|------|------|
+| 📚 플래시카드 | 덱 · 카드 생성 및 관리, 공개/비공개 설정 |
+| 🎯 학습 모드 | 카드 플립 애니메이션 · 정답/오답 체크 · 복습 알고리즘 |
+| ⚡ 실시간 퀴즈 | WebSocket 기반 멀티플레이어 퀴즈 · 15초 타이머 · 실시간 점수판 |
+| 📊 학습 통계 | 카드별 정답률 · 복습 대상 카드 자동 추출 |
+| 🌐 덱 탐색 | 공개 덱 검색 · 복사 · 좋아요 · 무한 스크롤 |
 
 
 <br>
