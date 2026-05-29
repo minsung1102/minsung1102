@@ -96,8 +96,6 @@
 <!--stat-->
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=default" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minsung1102&theme=github" alt="Contribution Graph"/>
