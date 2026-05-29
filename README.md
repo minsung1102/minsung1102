@@ -62,7 +62,14 @@
 
 ###  HighPass — 풀스택 취업준비생 커뮤니티 플랫폼 (Spring Boot + React)
  
-> 🎓 Spring Boot + React 풀스택 팀 프로젝트 4인 · 완료
+> 🎓 Spring Boot + React 풀스택 팀 프로젝트 4인 · 완료 [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
  
 > 💼 담당: 캘린더, 자유계시판, 알림, 반응형 디자인
  
@@ -80,7 +87,11 @@
 
 > ⚡ React + Node.js 풀스택 개인 프로젝트 · 진행중
 
-`React` `Node.js` `Socket.io` `Prisma` `MariaDB` `JWT`
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 | 기능 | 설명 |
 |------|------|
