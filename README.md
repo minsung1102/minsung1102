@@ -97,7 +97,9 @@
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minsung1102&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsung1102&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsung1102&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
