@@ -62,9 +62,9 @@
 
 ###  HighPass — 풀스택 취업준비생 커뮤니티 플랫폼 (Spring Boot + React)
 
-> 🎓 Spring Boot + React 풀스택 개인 프로젝트 · 진행중
+> 🎓 Spring Boot + React 풀스택 개인 프로젝트 · [완료](https://highpassfrontend.vercel.app/login/)
 
-`Spring Boot` `React` `JWT` `OAuth2` `TailwindCSS` `MySQL`
+`Spring Boot` `React` `JWT` `OAuth2` `TailwindCSS` `WebSocket` `GCP`
 
 | 기능 | 설명 |
 |------|------|
