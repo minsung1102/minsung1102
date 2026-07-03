@@ -37,11 +37,6 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-    <img src="https://img.shields.io/badge/LLM-4B5563?style=for-the-badge">
-    <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge">
-    <img src="https://img.shields.io/badge/TTS-4B5563?style=for-the-badge">
-    <img src="https://img.shields.io/badge/STT-4B5563?style=for-the-badge">
-    <img src="https://img.shields.io/badge/PERSO%20AI-4B5563?style=for-the-badge">
 </div>
 </div>
 
